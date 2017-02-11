@@ -19,6 +19,11 @@ Febuary 7 2017<br/>
 
 $$ \pi_{City.city\_name}(\sigma_{City.population > 600,000 \ \cap\  Country.continent="Europe"} \ (Country\Join City))$$
 
+
+Result:
+
+
+
 <br/>
 (b) List the names of all countries for which no cities have been entered into the City table.
 
